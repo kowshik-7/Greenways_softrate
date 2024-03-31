@@ -1,0 +1,33 @@
+.inputField:focus {
+    border-bottom: 1.5px solid #42ba4f;
+    transition: all 0.5s;
+}
+.inputField:focus ~ .inputName{
+    top: -24px;
+    transition: all 0.3s;
+    font-size: small;
+    color: #42ba4f;
+}
+.inputField:valid ~ .inputName{
+    top: -24px;
+    font-size: small;
+    color: #42ba4f;
+}
+
+.inputField,.inputName{
+    transition: all 0.3s;
+}
+
+.fadein{
+    animation: fade 0.3s ease-in-out;
+}
+
+
+@keyframes fade {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}

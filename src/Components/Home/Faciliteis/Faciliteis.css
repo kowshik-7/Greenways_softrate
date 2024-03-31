@@ -1,0 +1,25 @@
+.facilityCard:hover .facilityIcon img {
+    animation: iconRotate 0.3s ease-in;
+    transform: translate(-0.5rem,-0.5rem) scale(1.02) rotateY(180deg);
+}
+.facilityIcon img{
+    transition: 0.5s ease-in;
+}
+
+@keyframes iconRotate {
+    0%{
+        transform: translate(0,0) rotateY(0deg);
+        /* transform: rotateY(0deg); */
+        /* transform: rotateX(0) translateY(0); */
+    }
+    50%{
+        transform: translate(-1rem,-1rem) rotateY(90deg);
+        /* transform: rotateY(180deg); */
+        /* transform: rotateX(-0.25rem) translateY(-0.25rem); */
+    }
+    100%{
+        transform: translate(-0.5rem,-0.5rem) rotateY(180deg);
+        /* transform: rotateY(360deg); */
+        /* transform: rotateX(-0.5rem) translateY(-0.5rem); */
+    }
+}

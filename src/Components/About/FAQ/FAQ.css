@@ -1,0 +1,32 @@
+
+@keyframes open {
+    0%{
+        height: 0%;
+        opacity: 0;
+    }
+    100%{
+        height: 100%;
+        opacity: 1;
+        padding: 1rem 0.5rem;
+    }
+}
+
+@keyframes close {
+    0%{
+        height: 100%;
+        opacity: 1;
+        padding: 1rem 0.5rem;
+    }
+    100%{
+        height: 0%;
+        opacity: 0;
+    }
+}
+
+.opentag{
+    animation: open 0.5s ease-in-out forwards;
+}
+
+.closetag{
+    animation: close 0.5s ease-in-out backwards;
+}

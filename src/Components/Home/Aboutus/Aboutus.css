@@ -1,0 +1,14 @@
+.imgContainer:hover .aboutImg{
+    transform: translateX(0.5rem) translateY(-0.5rem);
+    transition: all 0.3s;
+}
+
+.imgContainer:hover .aboutBorder{
+    transform: translateX(0.5rem) translateY(-0.5rem);
+    transition: all 0.3s;
+}
+
+
+.aboutImg,.aboutBorder {
+    transition: all 0.3s;
+}
