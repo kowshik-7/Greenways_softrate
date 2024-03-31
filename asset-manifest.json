@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Greenways_softrate/static/css/main.f5e90ab6.css",
+    "main.js": "/Greenways_softrate/static/js/main.b264dda3.js",
+    "static/js/453.b4d89745.chunk.js": "/Greenways_softrate/static/js/453.b4d89745.chunk.js",
+    "static/media/aboutimg.jpg": "/Greenways_softrate/static/media/aboutimg.205f16320d9b4f582602.jpg",
+    "static/media/herosection.jpg": "/Greenways_softrate/static/media/herosection.b11bbc21964e378a2792.jpg",
+    "static/media/remixicon.svg?t=1708865856766": "/Greenways_softrate/static/media/remixicon.7735fab8dbf8ff78afe9.svg",
+    "static/media/abouthero.jpg": "/Greenways_softrate/static/media/abouthero.1f488305ca1c55fef771.jpg",
+    "static/media/office1.jpg": "/Greenways_softrate/static/media/office1.7236964861515a04510b.jpg",
+    "static/media/office5.jpg": "/Greenways_softrate/static/media/office5.68f8daf34d0e8faf8e12.jpg",
+    "static/media/office4.jpg": "/Greenways_softrate/static/media/office4.0d1d909a103e609b4569.jpg",
+    "static/media/office3.jpg": "/Greenways_softrate/static/media/office3.708f7819ece9a5a32f34.jpg",
+    "static/media/virtualoffice.jpg": "/Greenways_softrate/static/media/virtualoffice.e42726b6ff87244c07e4.jpg",
+    "static/media/office2.jpg": "/Greenways_softrate/static/media/office2.146af48c526ce257d350.jpg",
+    "static/media/remixicon.eot?t=1708865856766": "/Greenways_softrate/static/media/remixicon.8542c1bb279bcd77063a.eot",
+    "static/media/remixicon.ttf?t=1708865856766": "/Greenways_softrate/static/media/remixicon.4c942de19d980993f612.ttf",
+    "static/media/softratelogo.png": "/Greenways_softrate/static/media/softratelogo.6456260227927f4db7d4.png",
+    "static/media/greencard.jpg": "/Greenways_softrate/static/media/greencard.80d3777a1eea39f4a29c.jpg",
+    "static/media/virtualcardbg.png": "/Greenways_softrate/static/media/virtualcardbg.d571bed498e4b178b16c.png",
+    "static/media/referal.png": "/Greenways_softrate/static/media/referal.1102aa54bbff293dfebb.png",
+    "static/media/remixicon.woff?t=1708865856766": "/Greenways_softrate/static/media/remixicon.28ceff39ee3e17dc99db.woff",
+    "static/media/remixicon.woff2?t=1708865856766": "/Greenways_softrate/static/media/remixicon.39f4def56d0e8712909a.woff2",
+    "static/media/icon1.png": "/Greenways_softrate/static/media/icon1.737efb32367dfde81e3d.png",
+    "static/media/virtualoffice.png": "/Greenways_softrate/static/media/virtualoffice.394fbb753e448dba4731.png",
+    "static/media/officespace.png": "/Greenways_softrate/static/media/officespace.90b0a5d08af54053e422.png",
+    "static/media/dedicatedesk.png": "/Greenways_softrate/static/media/dedicatedesk.e727f2182fa33d42e028.png",
+    "static/media/cowork.png": "/Greenways_softrate/static/media/cowork.09a0a94be5dff66d3383.png",
+    "index.html": "/Greenways_softrate/index.html",
+    "main.f5e90ab6.css.map": "/Greenways_softrate/static/css/main.f5e90ab6.css.map",
+    "main.b264dda3.js.map": "/Greenways_softrate/static/js/main.b264dda3.js.map",
+    "453.b4d89745.chunk.js.map": "/Greenways_softrate/static/js/453.b4d89745.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5e90ab6.css",
+    "static/js/main.b264dda3.js"
+  ]
+}
